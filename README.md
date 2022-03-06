@@ -1,6 +1,6 @@
 # meditation_app
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/90332095/156916741-1f62f3df-0185-491b-8d3a-af4ce604b781.png)
 
 ## Getting Started
 
